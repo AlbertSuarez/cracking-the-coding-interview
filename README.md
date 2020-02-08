@@ -31,6 +31,12 @@ being:
 - `Y`: Chapter name.
 - `Z`: Question name.
 
+Or run all the available questions all together.
+
+```bash
+python3 -m src
+```
+
 ## Authors
 
 - [Albert Suàrez](https://github.com/AlbertSuarez)
