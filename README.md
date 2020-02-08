@@ -1,6 +1,7 @@
 # Cracking the Coding Interview
 
 [![HitCount](http://hits.dwyl.io/AlbertSuarez/cracking-the-coding-interview.svg)](http://hits.dwyl.io/AlbertSuarez/cracking-the-coding-interview)
+![Python application](https://github.com/AlbertSuarez/cracking-the-coding-interview/workflows/Python%20application/badge.svg)
 [![GitHub stars](https://img.shields.io/github/stars/AlbertSuarez/cracking-the-coding-interview.svg)](https://GitHub.com/AlbertSuarez/cracking-the-coding-interview/stargazers/)
 [![GitHub forks](https://img.shields.io/github/forks/AlbertSuarez/cracking-the-coding-interview.svg)](https://GitHub.com/AlbertSuarez/cracking-the-coding-interview/network/)
 [![GitHub contributors](https://img.shields.io/github/contributors/AlbertSuarez/cracking-the-coding-interview.svg)](https://GitHub.com/AlbertSuarez/cracking-the-coding-interview/graphs/contributors/)
