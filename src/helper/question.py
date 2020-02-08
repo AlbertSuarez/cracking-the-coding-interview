@@ -12,6 +12,7 @@ class Question:
 
     def __enter__(self):
         self.start_time = time.time()
+        return self
 
     def __exit__(self, *args):
         self.end_time = time.time()
