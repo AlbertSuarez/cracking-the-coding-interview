@@ -37,6 +37,29 @@ Or run all the available questions all together.
 python3 -m src
 ```
 
+## Implement new questions
+
+Every question has to be a class based on the abstract class called `Question` (found at `src.helper.question`).
+
+The code for every question has to start like this:
+
+```python
+from src.helper.question import Question
+
+
+class QuestionClass(Question):
+
+    def solve(self):
+        # To implement
+        pass
+
+
+if __name__ == '__main__':
+    with QuestionClass(QuestionClass.__name__) as question_class:
+        question_class.solve()
+
+```
+
 ## Authors
 
 - [Albert Suàrez](https://github.com/AlbertSuarez)
